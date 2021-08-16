@@ -2,7 +2,7 @@ const BLOG = {
   title: "CC",
   author: 'Cheng Chen',
   email: 'iovo7c@gmail.com',
-  link: 'https://chenc.vercel.app',
+  link: 'https://blog.chenc.me',
   description: 'Hello, world.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
